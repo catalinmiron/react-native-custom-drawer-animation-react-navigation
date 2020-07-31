@@ -4,11 +4,11 @@
 
 ## Run on your device
 
-Snack: https://snack.expo.io/@catalinmiron/react-native-svg-drawer-animation
+Snack: https://snack.expo.io/@catalinmiron/react-native-svg-drawer-animation-navigation-v5
 
 ### Youtube tutorial
 
-[![React Native Custom Drawer animation Youtube tutorial](react-native-custom-drawer-animation-dribbble-preview.gif)](https://youtu.be/fgUHYGeoG5U)
+[![React Native Custom Drawer animation Youtube tutorial](react-native-custom-drawer-animation-dribbble-preview.gif)](https://youtu.be/cU0_lMw1ZlM)
 
 In this tutorial we will build an custom drawer in React Native using SVG, Masked View and vanilla Animated API from React Native.
 We will go through how to animate a Polygon in React Native, how to animate the inner content of the drawer and how the React Native MaskedView is working.
